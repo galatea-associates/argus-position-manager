@@ -1,0 +1,6 @@
+rootProject.name = 'argus-position-manager'
+
+includeBuild 'argus-position-adapter'
+includeBuild 'argus-trade-adapter'
+includeBuild 'argus-position-query-service'
+
